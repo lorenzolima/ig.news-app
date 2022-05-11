@@ -30,3 +30,8 @@
         filter: brightness(0.8)
     }
 }
+
+.closeIcon:hover {
+    transition: filter 0.2s;
+    filter: brightness(0.75)
+}
