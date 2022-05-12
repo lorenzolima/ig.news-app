@@ -1,4 +1,4 @@
-// Inside this file '_document' there're the HTML Element that will work on all pages
+// Inside this file '_document' there're the HTML Elements that will work on all pages
 
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 
